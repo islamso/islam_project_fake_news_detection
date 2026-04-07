@@ -52,11 +52,11 @@ LSTM
 
 Text sequences were prepared using tokenization and padding
 
-## Author
-Islam Soussi Aspiring Data Scientist & AI engineer | Big Data & Analytics
-
 # results 
 📈 Results
 Achieved 0.99 F1-score using:
 SVM
 CNN
+
+## Author
+Islam Soussi Aspiring Data Scientist & AI engineer | Big Data & Analytics
