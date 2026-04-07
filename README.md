@@ -1,22 +1,22 @@
 # 📌 Fake News Detection
-# 📖 Overview
+## 📖 Overview
 
 Fake news has become increasingly widespread on social media, influencing public opinion and spreading misinformation.
 This project aims to detect fake news using Machine Learning and Deep Learning models.
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 Python
 Pandas, NumPy
 Scikit-learn
 TensorFlow / Keras
 Matplotlib / Seaborn
 
-# 🧹 Data Cleaning
+## 🧹 Data Cleaning
 Converted text to lowercase
 Removed URLs, punctuation, and extra spaces
 Handled and dropped missing values
 
-# 📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 Checked class distribution (dataset was balanced)
 Analyzed number of words, characters, and sentences
 Compared sentiment distribution between real and fake news
@@ -24,24 +24,24 @@ Extracted top words using bar charts
 Performed bigram and trigram analysis
 Visualized punctuation usage
 
-# 🔄 Data Preprocessing
+## 🔄 Data Preprocessing
 Tokenization
 Stopword removal
 Non-alphabetic token filtering
 Lemmatization
 
-# 🧠 Feature Engineering
+## 🧠 Feature Engineering
 Combined title + text to improve model understanding
 
-# ✂️ Train-Test Split
+## ✂️ Train-Test Split
 Split data into training and testing sets before feature extraction to prevent data leakage
 
-# 🔢 Feature Extraction (TF-IDF)
+## 🔢 Feature Extraction (TF-IDF)
 
 Fitted TF-IDF on training data only
 Transformed both training and test sets
 
-# 🤖 Modeling
+## 🤖 Modeling
 Machine Learning Models:
 Naive Bayes
 Support Vector Machine (SVM)
@@ -51,6 +51,9 @@ CNN
 LSTM
 
 Text sequences were prepared using tokenization and padding
+
+## Author
+Islam Soussi Aspiring Data Scientist & AI engineer | Big Data & Analytics
 
 # results 
 📈 Results
